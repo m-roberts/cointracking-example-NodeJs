@@ -15,6 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "form-data": "~2.3.1",
+    "jsonfile": "^4.0.0",
     "moment": "~2.19.1",
     "node-fetch": "~1.7.3",
     "password-hasher": "~1.0.1",
